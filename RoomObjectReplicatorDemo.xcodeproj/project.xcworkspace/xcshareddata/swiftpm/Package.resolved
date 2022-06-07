@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "roomobjectreplicator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jmousseau/RoomObjectReplicator",
+      "state" : {
+        "branch" : "main",
+        "revision" : "397b2cbe22a59d094ab65d1e6108df9496b27927"
+      }
+    }
+  ],
+  "version" : 2
+}
